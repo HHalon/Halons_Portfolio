@@ -1,0 +1,19 @@
+{
+  "name": "react_portfolio",
+  "version": "1.0.0",
+  "description": "Halon Hamilton Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Halons_Portfolio"
+  },
+  "keywords": [
+    "Halon",
+    "Portfolio"
+  ],
+  "author": "Halon Hamilton",
+  "license": "ISC"
+}
